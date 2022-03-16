@@ -2,7 +2,7 @@
 
 Hit: DevOps, backend, Ruby, `git cherrypick`, trombone, mountain biking, games of all genres.
 
-Miss: PHP, Mosquitoes.
+Miss: Frontend (working on it!), mosquitoes
 
 <!---
 TheMesp/TheMesp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
