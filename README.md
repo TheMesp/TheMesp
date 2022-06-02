@@ -1,8 +1,6 @@
 - 👋 Hi, I’m David Loewen, also known by my internet handle Mesp. I made those bots for that game.
 
-Hit: DevOps, backend, Ruby, `git cherrypick`, trombone, mountain biking, games of all genres.
-
-Miss: Frontend (working on it!), mosquitoes
+I'm a freshly graduated software developer in the Winnipeg area, with a particular passion for algorithm and database design!
 
 <!---
 TheMesp/TheMesp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
